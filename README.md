@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Brian Leach (@brian-leach-git)
-- 👀 I’m interested in: python, cloud architecture, data science
-- 🌱 I’m currently learning: python and AWS
+- 👀 I’m interested in: cloud architecture, networking, data science
 - 📫 How to reach me: brian.k.leach@outlook.com
 
 <!---
